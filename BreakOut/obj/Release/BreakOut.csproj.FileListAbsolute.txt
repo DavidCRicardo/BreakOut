@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Release\BreakOut.exe.config
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Release\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Release\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\App.g.cs
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.g.resources
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Release\BreakOut.pdb

@@ -1,0 +1,31 @@
+﻿<Window x:Class="BreakOut.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BreakOut"
+        mc:Ignorable="d" Icon="icon.png"
+        KeyDown="Window_KeyDown" WindowStartupLocation="CenterScreen"
+        Title="BreakOut v1.3" Height="700" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                <GradientStop Offset="0" Color="Black"/>
+                <GradientStop Offset="1" Color="Gray"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Canvas Name="MainCanvas" Height="600" Width="800" Margin="0,0,0,71">
+            <Rectangle x:Name="player" Fill="Black" Height="20" Width="100" Canvas.Bottom="0" Canvas.Left="{Binding XPosition}" RenderTransformOrigin="0.5,0.5" Canvas.Top="570" />
+
+            <Ellipse x:Name="ball" Height="15" Width="15" Fill="Red" Canvas.Left="{Binding X}" Canvas.Top="{Binding Y}"/>
+        </Canvas>
+
+        <TextBlock TextAlignment="Justify" Text="ESC:Exit   F3:Start   F4:Pause" FontSize="20" HorizontalAlignment="Center" Margin="200,630,200,0" Width="290"/>
+        <TextBlock TextAlignment="Center" Text="Score" FontSize="15" HorizontalAlignment="Left" Width="100" Margin="573,640,0,-10"/>
+        <TextBlock x:Name="score" TextAlignment="Left" FontSize="15" HorizontalAlignment="Left" Width="100" Margin="650,640,0,-10"/>
+        <TextBlock TextAlignment="Left" Text="Copyright © David Ricardo 2017" FontSize="10" HorizontalAlignment="Left" Width="212" Margin="10,640,0,0"/>
+        <TextBlock TextAlignment="Center" Text="Lifes" FontSize="15" HorizontalAlignment="Left" Width="97" Margin="578,623,0,7"/>
+        <TextBlock x:Name="lifes" TextAlignment="Left" FontSize="15" HorizontalAlignment="Left" Width="43" Margin="650,623,0,22"/>
+    </Grid>
+</Window>

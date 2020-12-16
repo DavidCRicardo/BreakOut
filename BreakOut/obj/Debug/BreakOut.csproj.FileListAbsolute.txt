@@ -1,0 +1,59 @@
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\bin\Debug\BreakOut.exe.config
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\bin\Debug\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\bin\Debug\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.g.resources
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.Cache
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\BreakOut\BreakOut\obj\Debug\BreakOut.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\BreakOut\BreakOut\bin\Debug\BreakOut.exe.config
+C:\Users\david\Desktop\BreakOut\BreakOut\bin\Debug\BreakOut.exe
+C:\Users\david\Desktop\BreakOut\BreakOut\bin\Debug\BreakOut.pdb
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.csprojAssemblyReference.cache
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\App.g.cs
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.cache
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.lref
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.g.resources
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.cache
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.exe
+C:\Users\david\Desktop\BreakOut\BreakOut\obj\Debug\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Debug\BreakOut.exe.config
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Debug\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\bin\Debug\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.g.resources
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.exe
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.pdb
+C:\Users\david\OneDrive\Documentos\BreakOut\BreakOut\obj\Debug\BreakOut.csprojAssemblyReference.cache
+E:\My Games & Personal Projects\BreakOut\BreakOut\bin\Debug\BreakOut.exe.config
+E:\My Games & Personal Projects\BreakOut\BreakOut\bin\Debug\BreakOut.exe
+E:\My Games & Personal Projects\BreakOut\BreakOut\bin\Debug\BreakOut.pdb
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.csprojAssemblyReference.cache
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\MainWindow.g.cs
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\App.g.cs
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.cache
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut_MarkupCompile.lref
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\MainWindow.baml
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.g.resources
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.cache
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.csproj.CoreCompileInputs.cache
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.exe
+E:\My Games & Personal Projects\BreakOut\BreakOut\obj\Debug\BreakOut.pdb
